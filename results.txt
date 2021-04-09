@@ -1,0 +1,655 @@
+INDIA 
+
+Broad Money (current US$) (M2)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             2.000000
+Test Statistic        -0.137718
+p-value                0.945550
+Critical Value (5%)   -2.913766
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+Government Expenditure (current US$) (GE)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000
+Test Statistic        -0.320899
+p-value                0.922492
+Critical Value (5%)   -2.911939
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+Gross Domestic Product (current US$) (GDP)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000
+Test Statistic         0.350253
+p-value                0.979536
+Critical Value (5%)   -2.911939
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+First Difference - Broad Money (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             11.000000
+Test Statistic         -4.348385
+p-value                 0.000366
+Critical Value (5%)    -2.925338
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+First Difference - Government Expenditure (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             1.000000
+Test Statistic        -4.302491
+p-value                0.000440
+Critical Value (5%)   -2.913766
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+First Difference - Gross Domestic Product (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000e+00
+Test Statistic        -7.126426e+00
+p-value                3.610305e-10
+Critical Value (5%)   -2.912837e+00
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+Cointegration GDP-M2
+Engel Granger Cointegration
+Null Hypothesis : No Cointegration
+t-Statistic :		 -1.8518740933371212
+p-value :		 0.6042003380632097
+Critical Value 1% :	 -4.09169685147946
+Critical Value 5% :	 -3.4416510858948577
+Critical Value 10% :	 -3.1171161304222923
+At 5% significance level
+Failed to reject Null Hypothesis - No Cointegration
+
+Cointegration GDP-GE
+Engel Granger Cointegration
+Null Hypothesis : No Cointegration
+t-Statistic :		 -3.271292760534024
+p-value :		 0.05879221485230741
+Critical Value 1% :	 -4.09169685147946
+Critical Value 5% :	 -3.4416510858948577
+Critical Value 10% :	 -3.1171161304222923
+At 5% significance level
+Failed to reject Null Hypothesis - No Cointegration
+
+Causality from M2 to GDP
+Granger Causality
+Best number of Lags :	 3
+F-statistic :	 4.073780065518452
+p-value :	 0.011621233989168612
+At 5% significance level
+Causality is significant
+
+Causality from GDP to M2
+Granger Causality
+Best number of Lags :	 3
+F-statistic :	 3.1702522775046194
+p-value :	 0.032381651251942846
+At 5% significance level
+Causality is significant
+
+Causality from GE to GDP
+Granger Causality
+Best number of Lags :	 4
+F-statistic :	 4.0144653622715065
+p-value :	 0.007098646294807155
+At 5% significance level
+Causality is significant
+
+Causality from GDP to GE
+Granger Causality
+Best number of Lags :	 15
+F-statistic :	 2.7552859572001887
+p-value :	 0.036906696402314185
+At 5% significance level
+Causality is significant
+
+
+
+
+PAKISTAN 
+
+Broad Money (current US$) (M2)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             2.000000
+Test Statistic        -0.857393
+p-value                0.801680
+Critical Value (5%)   -2.913766
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+Government Expenditure (current US$) (GE)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000
+Test Statistic        -0.971989
+p-value                0.763343
+Critical Value (5%)   -2.911939
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+Gross Domestic Product (current US$) (GDP)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000
+Test Statistic        -1.038201
+p-value                0.739078
+Critical Value (5%)   -2.911939
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+First Difference - Broad Money (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             1.000000
+Test Statistic        -4.960077
+p-value                0.000027
+Critical Value (5%)   -2.913766
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+First Difference - Government Expenditure (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000e+00
+Test Statistic        -6.924926e+00
+p-value                1.121668e-09
+Critical Value (5%)   -2.912837e+00
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+First Difference - Gross Domestic Product (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             1.000000e+00
+Test Statistic        -6.005230e+00
+p-value                1.621479e-07
+Critical Value (5%)   -2.913766e+00
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+Cointegration GDP-M2
+Engel Granger Cointegration
+Null Hypothesis : No Cointegration
+t-Statistic :		 -3.6442589250085704
+p-value :		 0.02157548136568332
+Critical Value 1% :	 -4.09169685147946
+Critical Value 5% :	 -3.4416510858948577
+Critical Value 10% :	 -3.1171161304222923
+At 5% significance level
+Reject Null Hypothesis - Cointegration is present
+
+Cointegration GDP-GE
+Engel Granger Cointegration
+Null Hypothesis : No Cointegration
+t-Statistic :		 -2.365311251966538
+p-value :		 0.3414553341189742
+Critical Value 1% :	 -4.09169685147946
+Critical Value 5% :	 -3.4416510858948577
+Critical Value 10% :	 -3.1171161304222923
+At 5% significance level
+Failed to reject Null Hypothesis - No Cointegration
+
+Causality from M2 to GDP
+Granger Causality
+Best number of Lags :	 15
+F-statistic :	 2.1487768690704185
+p-value :	 0.08675848444386436
+At 5% significance level
+Causality is insignificant
+
+Causality from GDP to M2
+Granger Causality
+Best number of Lags :	 1
+F-statistic :	 3.37638709813078
+p-value :	 0.07154115297209197
+At 5% significance level
+Causality is insignificant
+
+Causality from GE to GDP
+Granger Causality
+Best number of Lags :	 7
+F-statistic :	 2.1871863714751627
+p-value :	 0.05803763248845375
+At 5% significance level
+Causality is insignificant
+
+Causality from GDP to GE
+Granger Causality
+Best number of Lags :	 1
+F-statistic :	 4.1192204129993
+p-value :	 0.04724810869819062
+At 5% significance level
+Causality is significant
+
+
+
+
+SRI LANKA 
+
+Broad Money (current US$) (M2)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             1.000000
+Test Statistic         1.480086
+p-value                0.997449
+Critical Value (5%)   -2.912837
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+Government Expenditure (current US$) (GE)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000
+Test Statistic         0.267131
+p-value                0.975785
+Critical Value (5%)   -2.911939
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+Gross Domestic Product (current US$) (GDP)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000
+Test Statistic         0.411124
+p-value                0.981906
+Critical Value (5%)   -2.911939
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+First Difference - Broad Money (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000e+00
+Test Statistic        -9.125088e+00
+p-value                3.129314e-15
+Critical Value (5%)   -2.912837e+00
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+First Difference - Government Expenditure (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             3.000000
+Test Statistic        -4.596981
+p-value                0.000131
+Critical Value (5%)   -2.915731
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+First Difference - Gross Domestic Product (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000e+00
+Test Statistic        -7.759651e+00
+p-value                9.529939e-12
+Critical Value (5%)   -2.912837e+00
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+Cointegration GDP-M2
+Engel Granger Cointegration
+Null Hypothesis : No Cointegration
+t-Statistic :		 -3.477916463306898
+p-value :		 0.03440390267382342
+Critical Value 1% :	 -4.09169685147946
+Critical Value 5% :	 -3.4416510858948577
+Critical Value 10% :	 -3.1171161304222923
+At 5% significance level
+Reject Null Hypothesis - Cointegration is present
+
+Cointegration GDP-GE
+Engel Granger Cointegration
+Null Hypothesis : No Cointegration
+t-Statistic :		 -2.626020153070044
+p-value :		 0.2273057966562566
+Critical Value 1% :	 -4.09169685147946
+Critical Value 5% :	 -3.4416510858948577
+Critical Value 10% :	 -3.1171161304222923
+At 5% significance level
+Failed to reject Null Hypothesis - No Cointegration
+
+Causality from M2 to GDP
+Granger Causality
+Best number of Lags :	 1
+F-statistic :	 1.7518182496426347
+p-value :	 0.19112378055611023
+At 5% significance level
+Causality is insignificant
+
+Causality from GDP to M2
+Granger Causality
+Best number of Lags :	 7
+F-statistic :	 0.6837042510755137
+p-value :	 0.6848437468999389
+At 5% significance level
+Causality is insignificant
+
+Causality from GE to GDP
+Granger Causality
+Best number of Lags :	 10
+F-statistic :	 1.3273654300229958
+p-value :	 0.2643487900576613
+At 5% significance level
+Causality is insignificant
+
+Causality from GDP to GE
+Granger Causality
+Best number of Lags :	 11
+F-statistic :	 0.9473221352372957
+p-value :	 0.5147317855109232
+At 5% significance level
+Causality is insignificant
+
+
+
+
+SOUTH AFRICA 
+
+Broad Money (current US$) (M2)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             1.000000
+Test Statistic        -1.551267
+p-value                0.508015
+Critical Value (5%)   -2.917850
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+Government Expenditure (current US$) (GE)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             2.000000
+Test Statistic        -2.495393
+p-value                0.116599
+Critical Value (5%)   -2.918973
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+Gross Domestic Product (current US$) (GDP)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             4.000000
+Test Statistic        -2.120245
+p-value                0.236452
+Critical Value (5%)   -2.921360
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+First Difference - Broad Money (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             1.000000
+Test Statistic        -4.950472
+p-value                0.000028
+Critical Value (5%)   -2.918973
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+First Difference - Government Expenditure (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             1.000000
+Test Statistic        -5.240327
+p-value                0.000007
+Critical Value (5%)   -2.918973
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+First Difference - Gross Domestic Product (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             3.000000
+Test Statistic        -3.868320
+p-value                0.002281
+Critical Value (5%)   -2.921360
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+Cointegration GDP-M2
+Engel Granger Cointegration
+Null Hypothesis : No Cointegration
+t-Statistic :		 -1.5734246018744382
+p-value :		 0.7319753600368979
+Critical Value 1% :	 -4.110750562414267
+Critical Value 5% :	 -3.4516198491083676
+Critical Value 10% :	 -3.123923525377229
+At 5% significance level
+Failed to reject Null Hypothesis - No Cointegration
+
+Cointegration GDP-GE
+Engel Granger Cointegration
+Null Hypothesis : No Cointegration
+t-Statistic :		 -2.679614581343043
+p-value :		 0.20699598213996456
+Critical Value 1% :	 -4.110750562414267
+Critical Value 5% :	 -3.4516198491083676
+Critical Value 10% :	 -3.123923525377229
+At 5% significance level
+Failed to reject Null Hypothesis - No Cointegration
+
+Causality from M2 to GDP
+Granger Causality
+Best number of Lags :	 2
+F-statistic :	 1.1194683960136143
+p-value :	 0.3350009153650303
+At 5% significance level
+Causality is insignificant
+
+Causality from GDP to M2
+Granger Causality
+Best number of Lags :	 2
+F-statistic :	 2.427044987482718
+p-value :	 0.09928845754865372
+At 5% significance level
+Causality is insignificant
+
+Causality from GE to GDP
+Granger Causality
+Best number of Lags :	 15
+F-statistic :	 1.0882978299647637
+p-value :	 0.47231470577594936
+At 5% significance level
+Causality is insignificant
+
+Causality from GDP to GE
+Granger Causality
+Best number of Lags :	 1
+F-statistic :	 1.2189766856998645
+p-value :	 0.2748467365860534
+At 5% significance level
+Causality is insignificant
+
+
+
+
+BRAZIL 
+
+Broad Money (current US$) (M2)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000
+Test Statistic        -0.841304
+p-value                0.806687
+Critical Value (5%)   -2.911939
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+Government Expenditure (current US$) (GE)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             1.000000
+Test Statistic        -1.337937
+p-value                0.611642
+Critical Value (5%)   -2.912837
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+Gross Domestic Product (current US$) (GDP)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000
+Test Statistic        -1.990617
+p-value                0.290702
+Critical Value (5%)   -2.911939
+dtype: float64
+At 5% significance level
+Failed to Reject Null Hypothesis - Time Series is Non-Stationary
+
+
+First Difference - Broad Money (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000e+00
+Test Statistic        -7.859560e+00
+p-value                5.329201e-12
+Critical Value (5%)   -2.912837e+00
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+First Difference - Government Expenditure (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000e+00
+Test Statistic        -5.938397e+00
+p-value                2.291707e-07
+Critical Value (5%)   -2.912837e+00
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+First Difference - Gross Domestic Product (current US$)
+Augmented Dickey-Fuller Unit Root
+Null Hypothesis : Time Series in Non-Stationary
+#Lags Used             0.000000e+00
+Test Statistic        -5.977160e+00
+p-value                1.875608e-07
+Critical Value (5%)   -2.912837e+00
+dtype: float64
+At 5% significance level
+Reject Null Hypothesis - Time Series is Stationary
+
+
+Cointegration GDP-M2
+Engel Granger Cointegration
+Null Hypothesis : No Cointegration
+t-Statistic :		 -2.0978990707287783
+p-value :		 0.47746545629353
+Critical Value 1% :	 -4.09169685147946
+Critical Value 5% :	 -3.4416510858948577
+Critical Value 10% :	 -3.1171161304222923
+At 5% significance level
+Failed to reject Null Hypothesis - No Cointegration
+
+Cointegration GDP-GE
+Engel Granger Cointegration
+Null Hypothesis : No Cointegration
+t-Statistic :		 -2.0776279827635395
+p-value :		 0.48806523878024716
+Critical Value 1% :	 -4.09169685147946
+Critical Value 5% :	 -3.4416510858948577
+Critical Value 10% :	 -3.1171161304222923
+At 5% significance level
+Failed to reject Null Hypothesis - No Cointegration
+
+Causality from M2 to GDP
+Granger Causality
+Best number of Lags :	 2
+F-statistic :	 4.133566839096757
+p-value :	 0.02157709521026945
+At 5% significance level
+Causality is significant
+
+Causality from GDP to M2
+Granger Causality
+Best number of Lags :	 11
+F-statistic :	 2.076597472327585
+p-value :	 0.0632528977930147
+At 5% significance level
+Causality is insignificant
+
+Causality from GE to GDP
+Granger Causality
+Best number of Lags :	 14
+F-statistic :	 1.3812947454092313
+p-value :	 0.26556116320012974
+At 5% significance level
+Causality is insignificant
+
+Causality from GDP to GE
+Granger Causality
+Best number of Lags :	 1
+F-statistic :	 1.7684289851740058
+p-value :	 0.1890655252400539
+At 5% significance level
+Causality is insignificant
+
+
+
+
